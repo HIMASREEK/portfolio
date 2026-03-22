@@ -4,23 +4,27 @@
     "imageSrc": "projects/project.png",
     "description": "Built a full-stack e-commerce app using Django with core shopping features.",
     "skills": ["Html", "Css", "Javascript","Bootstrap","Django","SqlLite","Python"],
-    "demo": "https://www.example.com",
     "source": "https://github.com/HIMASREEK/Eccomere-website-Tryvion.git"
   },
   {
-    "title": "Project B",
+    "title": "Missing Person Tracking System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/HIMASREEK/Eccomere-website-Tryvion.git"
+    "description": "Created a real-time face recognition system using OpenCV and machine learning.",
+    "skills": ["Html", "Css","Bootstrap","Django","OpenCv","Python"],
+    "source": "https://github.com/Harsha-282004/Face-recognition.git"
   },
   {
-    "title": "Project C",
+    "title": "Weather App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a Django-based weather application to display real-time city-wise weather data.",
+    "skills": ["OpenWeatherMap API","Html", "Css","Bootstrap","Django","Python"],
+    "source": "https://github.com/HIMASREEK/weather-app.git"
+  },
+  {
+    "title": "ToDo App",
+    "imageSrc": "projects/project.png",
+    "description": "Created a To-Do app using Django to manage daily tasks with CRUD functionality.",
+    "skills": ["Html", "Css","Bootstrap","Django","Python"],
+    "source": "https://github.com/HIMASREEK/todo.git"
   }
 ]
