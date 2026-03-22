@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-commerce",
+    "imageSrc": "projects/project.png",
+    "description": "Built a full-stack e-commerce app using Django with core shopping features.",
+    "skills": ["Html", "Css", "Javascript","Bootstrap","Django","SqlLite","Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/HIMASREEK/Eccomere-website-Tryvion.git"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/HIMASREEK/Eccomere-website-Tryvion.git"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

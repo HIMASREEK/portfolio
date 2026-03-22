@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Google",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Live Project Intern",
+    "organisation": "Vivnovation",
+    "startDate": "Jan, 2025",
+    "endDate": "Mar, 2025",
+    "experiences": ["Worked on live projects at Vivnovation Pvt. Ltd., improving development efficiency and strengthening teamwork and delivery skills."]
+  }
+]
