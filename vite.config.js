@@ -9,4 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  base: "/portfolio/", // ✅ Add this line for GitHub Pages
 });
